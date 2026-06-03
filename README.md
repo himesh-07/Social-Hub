@@ -207,13 +207,13 @@ The app will be available at:
 
 ## 🗺️ Roadmap
 
-- [x] User authentication (JWT)
-- [x] Create & view posts with image support
-- [x] User profile management
-- [ ] 💬 Comments on posts
-- [ ] ❤️ Like / reaction system
-- [ ] 🔔 Real-time notifications (Socket.io)
-- [ ] 👥 Follow / unfollow users
+User authentication (JWT)
+Create & view posts with image support
+User profile management
+💬 Comments on posts
+❤️ Like / reaction system
+🔔 Real-time notifications (Socket.io)
+👥 Follow / unfollow users
 
 
 ---
