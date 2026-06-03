@@ -1,6 +1,6 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://social-hub-5fk0.onrender.com/api",
+  console.log("API URL =", process.env.REACT_APP_API_URL);
 });
 export default API;
